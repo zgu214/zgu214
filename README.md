@@ -12,10 +12,10 @@
 - **Pipeline design** — wall thickness (DNV-ST-F101, API 579), material selection, code compliance
 - Spanning, free-span detection, and VIV analysis
 - Inline structures (PLET, PLEM, etc.)
-- Pressure vessel design and analysis
+- Pressure vessel design and analysis (ASME VIII)
 - Flexible pipe analysis
 - Global riser analysis
-- Riser design and buckle-arrest systems
+
 
 Most subsea engineers still use Excel and locked-in software. I'm building tools to change that.
 
