@@ -15,6 +15,7 @@
 - Pressure vessel design and analysis (ASME VIII)
 - Flexible pipe analysis
 - Global riser analysis
+- ANSYS,ABAQUS,MSC PATRAN/NASTRAN, MARC, Orcaflex
 
 
 Most subsea engineers still use Excel and locked-in software. I'm building tools to change that.
