@@ -39,9 +39,8 @@ Good engineering code is:
 
 ## 🤝 Let's Connect
 
-- 📧 **Email:** [zhiqiang.gu@example.com]
-- 💼 **LinkedIn:** [linkedin.com/in/zhiqiang-gu]
-- 🌐 **Portfolio/Blog:** [your-portfolio-site]
+- 📧 **Email:** [zhiqiang.gu214@gmail.com](mailto:zhiqiang.gu214@gmail.com)
+- 💼 **LinkedIn:** [Zhiqiang Gu](https://www.linkedin.com/in/zhiqiang-gu-55813318/)
 - 🐙 **GitHub:** [@zgu214](https://github.com/zgu214)
 
 ---
