@@ -24,7 +24,13 @@ Most subsea engineers still use Excel and locked-in software. I'm building tools
 
 ## 📌 Featured Projects
 
-Coming soon — flagship subsea pipeline tools that solve real engineering problems.
+**[Pipeline Lateral Buckling](https://github.com/zgu214/pipeline-lateral-buckling)** — research calculators for lateral buckling, from classical closed-form checks through non-linear models, with synthetic examples and consistency tests.
+
+**[Offshore J-Tube Pull-In](https://github.com/zgu214/offshore-jtube-pullin)** — pull-in models for rigid pipe and flexible umbilicals, with a combined desktop GUI.
+
+**[Folder Structure Copier](https://github.com/zgu214/folder-structure-copier)** — a desktop app and CLI that replicates a folder tree, with or without file contents. Filtered parallel copies that prune `.git` and `node_modules` during the walk; about 3x faster than version 1. Python + PyQt6, MIT.
+
+More subsea pipeline tools are in progress.
 
 ---
 
